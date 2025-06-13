@@ -1,5 +1,4 @@
 # Driver Drowsiness Detection System
-
 Final Year B.Tech Project — Real-Time Driver Drowsiness and Yawning Detection using Computer Vision and Machine Learning (EAR and MAR based).
 
 ## Features
